@@ -1,6 +1,9 @@
 #ifndef MAKE_UNIQUE_HPP_8HU2J9K4
 #define MAKE_UNIQUE_HPP_8HU2J9K4
 
+// Verbose from:
+// http://isocpp.org/files/papers/N3656.txt
+
 #include <cstddef>
 #include <memory>
 #include <type_traits>
